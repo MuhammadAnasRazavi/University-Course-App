@@ -14,4 +14,6 @@
     <string name="painting">Painting</string>
     <string name="photography">Photography</string>
     <string name="tech">Tech</string>
+    <string name="university_courses_text">University Courses</string>
+    <string name="developer_name_text">Developed by @Muhammad Anas Razavi</string>
 </resources>
